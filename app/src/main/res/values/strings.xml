@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tugas02BasicAndroid</string>
+
+    <string name="place_name">Tempat Kos Indonesia</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    //activity_about
+    <string name="profile_name">Christian Kevin Emor</string>
+    <string name="email"> kevinemor10@gmail.com </string>
+    <string name="action_about">About\n</string>
+    <string name="pengolahan"> Cara Membuat: </string>
+
+    //activity_place_detail
+    <string name="title">Nama Tempat</string>
+    <string name="Deksripsi">Deskripsi Tempat</string>
+    <string name="benefit_value"> Apa Saja yang Didapati </string>
+    <string name="benefit">Benefit Tempat</string>
+
+
+</resources>
